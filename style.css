@@ -1,0 +1,53 @@
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    background-image: url(obrazky/pozadi\ sede.jpg);
+    margin: 0;
+    padding-right: 10%;
+}
+
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+    letter-spacing: 1px;
+    color:#00008B;
+}
+
+h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+    letter-spacing: 1px;
+}
+
+.uvodni {
+    width: 460px;
+    border-radius: 10px; 
+    float: left;
+    margin: 15px 15px 0 15px;
+}
+
+.logo {
+    width: 40px;
+    margin-right: 10px;
+}
+
+a {
+    font-style: italic;
+}
+
+a:link {
+    color:#4169E1;
+}
+
+a:visited {
+    color: #C71585;
+}
+
+div {
+    overflow: auto;
+}
+
+
+
+
